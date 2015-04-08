@@ -1,0 +1,14 @@
+{
+  "name": "makemehapi",
+  "version": "0.1.0",
+  "description": "make me hapi exercieses",
+  "main": "hello-hapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christopher.keen@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^8.4.0"
+  }
+}
