@@ -1,6 +1,5 @@
 var Hapi = require('hapi');
 var path = require('path');
-var joi = require('joi');
 
 var server = new Hapi.Server();
 
