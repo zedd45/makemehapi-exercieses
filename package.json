@@ -9,6 +9,8 @@
   "author": "christopher.keen@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^8.4.0"
+    "handlebars": "3.0.1",
+    "hapi": "8.4.0",
+    "joi": "6.1.1"
   }
 }
